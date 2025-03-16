@@ -36,7 +36,7 @@
     <header>
         Welcome to Perodua Sales - Premium Experience / Selamat Datang ke Perodua Sales - Pengalaman Premium
     </header>
-    <div class="vertical line" class="language-toggle">
+    <div class="vertical-line" class="language-toggle">
         <button class="btn-en" onclick="switchLanguage('en')">EN</button>
         <button class="btn-my" onclick="switchLanguage('my')">BM</button>
     </div>

@@ -60,6 +60,9 @@
             <img src="axia.jpg" alt="Perodua Axia">
             <img src="bezza.jpg" alt="Perodua Bezza">
             <img src="myvi.jpg" alt="Perodua Myvi">
+            <img src="ativa.jpg" alt="Perodua Ativa">
+            <img src="aruz.jpg" alt="Perodua Aruz">
+            <img src="alza.jpg" alt="Perodua Alza">
         </div>
         <h2>Promosi Eksklusif</h2>
         <p>Dapatkan tawaran pembiayaan terbaik dan promosi terhad!</p>

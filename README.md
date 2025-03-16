@@ -36,17 +36,19 @@
     <header>
         Welcome to Perodua Sales - Premium Experience / Selamat Datang ke Perodua Sales - Pengalaman Premium
     </header>
-    <div class="language-toggle">
-        <button class="btn-en" onclick="switchLanguage('en')">English</button>
-        <button class="btn-my" onclick="switchLanguage('my')">Bahasa Malaysia</button>
+    <div class="vertical line" class="language-toggle">
+        <button class="btn-en" onclick="switchLanguage('en')">EN</button>
+        <button class="btn-my" onclick="switchLanguage('my')">BM</button>
     </div>
     <section id="en">
         <h2>Our Premium Car Models</h2>
         <div class="car-list">
             <img src="https://raw.githubusercontent.com/your-username/perodua-sales/main/axia.jpg" alt="Perodua Axia">
-            <img src="axia.png" alt="Perodua Axia">
             <img src="bezza.jpg" alt="Perodua Bezza">
             <img src="myvi.jpg" alt="Perodua Myvi">
+            <img src="ativa.jpg" alt="Perodua Ativa">
+            <img src="aruz.jpg" alt="Perodua Aruz">
+            <img src="alza.jpg" alt="Perodua Alza">
         </div>
         <h2>Exclusive Promotions</h2>
         <p>Unlock the best financing options and limited-time offers!</p>

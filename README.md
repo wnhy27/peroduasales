@@ -48,7 +48,7 @@
                 <p class="car-name">Perodua Axia</p>
             </div>
             <div class="car-item">
-                <img src="bezza.jpg" alt="Perodua Bezza">
+                <img src="bezza.png" alt="Perodua Bezza">
                 <p class="car-name">Perodua Bezza</p>
             </div>
             <div class="car-item">

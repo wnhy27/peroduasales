@@ -43,13 +43,18 @@
     <section id="en">
         <h2>Our Premium Car Models</h2>
         <div class="car-list">
-            <img src="axia.png" alt="Perodua Axia">
-            <h1>Perodua Axia</h1>
-            <img src="bezza.jpg" alt="Perodua Bezza">
-            <img src="myvi.jpg" alt="Perodua Myvi">
-            <img src="ativa.jpg" alt="Perodua Ativa">
-            <img src="aruz.jpg" alt="Perodua Aruz">
-            <img src="alza.jpg" alt="Perodua Alza">
+            <div class="car-item">
+                <img src="axia.png" alt="Perodua Axia">
+                <p class="car-name">Perodua Axia</p>
+            </div>
+            <div class="car-item">
+                <img src="bezza.jpg" alt="Perodua Bezza">
+                <p class="car-name">Perodua Bezza</p>
+            </div>
+            <div class="car-item">
+                <img src="myvi.jpg" alt="Perodua Myvi">
+                <p class="car-name">Perodua Myvi</p>
+            </div>
         </div>
         <h2>Exclusive Promotions</h2>
         <p>Unlock the best financing options and limited-time offers!</p>
@@ -58,12 +63,18 @@
     <section id="my">
         <h2>Model Kereta Premium Kami</h2>
         <div class="car-list">
-            <img src="axia.jpg" alt="Perodua Axia">
-            <img src="bezza.jpg" alt="Perodua Bezza">
-            <img src="myvi.jpg" alt="Perodua Myvi">
-            <img src="ativa.jpg" alt="Perodua Ativa">
-            <img src="aruz.jpg" alt="Perodua Aruz">
-            <img src="alza.jpg" alt="Perodua Alza">
+            <div class="car-item">
+                <img src="axia.jpg" alt="Perodua Axia">
+                <p class="car-name">Perodua Axia</p>
+            </div>
+            <div class="car-item">
+                <img src="bezza.jpg" alt="Perodua Bezza">
+                <p class="car-name">Perodua Bezza</p>
+            </div>
+            <div class="car-item">
+                <img src="myvi.jpg" alt="Perodua Myvi">
+                <p class="car-name">Perodua Myvi</p>
+            </div>
         </div>
         <h2>Promosi Eksklusif</h2>
         <p>Dapatkan tawaran pembiayaan terbaik dan promosi terhad!</p>

@@ -19,7 +19,7 @@
         .btn-my { background: #28a745; color: white; }
         section { padding: 60px 20px; text-align: center; background: white; margin: 30px auto; width: 80%; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); display: none; }
         .car-list { display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; }
-        .car-list img { width: 280px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: 0.3s; }
+        .car-list img { width: 300px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: 0.3s; }
         .car-list img:hover { transform: scale(1.07); }
         .cta-button { background: #ff5722; color: white; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-size: 20px; transition: 0.3s; display: inline-block; margin-top: 15px; }
         .cta-button:hover { background: #e64a19; }

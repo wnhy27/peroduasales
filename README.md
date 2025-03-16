@@ -43,7 +43,7 @@
     <section id="en">
         <h2>Our Premium Car Models</h2>
         <div class="car-list">
-            <img src="![axia](https://github.com/user-attachments/assets/10bd0cf2-dcd4-4a62a345-140d3270ad43)">
+            <img src="axia.png" alt="Perodua Axia">
             <img src="bezza.jpg" alt="Perodua Bezza">
             <img src="myvi.jpg" alt="Perodua Myvi">
         </div>

@@ -44,6 +44,7 @@
         <h2>Our Premium Car Models</h2>
         <div class="car-list">
             <img src="axia.png" alt="Perodua Axia">
+            <p>Perodua Axia</p>
             <img src="bezza.jpg" alt="Perodua Bezza">
             <img src="myvi.jpg" alt="Perodua Myvi">
             <img src="ativa.jpg" alt="Perodua Ativa">
